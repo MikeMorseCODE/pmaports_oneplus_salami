@@ -1,5 +1,5 @@
 # Reference: <https://postmarketos.org/vendorkernel>
-# Kernel config based on: arch/arm64/configs/(CHANGEME!)
+# Kernel config based on: android_kernel_oneplus_sm8550/arch/arm64/configs/vendor/oplus/salami 
 
 pkgname=linux-oneplus-salami
 pkgver=5.15.152
