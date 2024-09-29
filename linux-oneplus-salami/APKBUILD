@@ -20,7 +20,13 @@ makedepends="
 	flex
 	openssl-dev
 	perl
+        gmp-dev 
+        mpc1-dev 
+        mpfr-dev 
+        findutils 
+        postmarketos-installkernel 
 "
+
 
 # Source
 _repository="android_kernel_oneplus_sm8550"
